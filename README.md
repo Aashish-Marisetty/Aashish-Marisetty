@@ -1,11 +1,19 @@
-# Hi, I'm Aashish Marisetty 👋
+# Hey there! 👋
 
-I'm a Computer Science Engineering student passionate about Artificial Intelligence and Machine Learning.  
-I love building intelligent applications that solve real-world problems using AI and full-stack technologies.  
-Currently, I'm exploring Generative AI, Agentic AI, and advanced deep learning concepts.  
-I enjoy learning new technologies and turning ideas into impactful projects.  
-When I'm away from my keyboard, you'll usually find me at the gym or listening to music.  
-I believe in continuous learning, consistency, and building things that matter.  
-I'm always open to collaborating on exciting AI and software projects.  
-Feel free to ask me anything about AI, Python, Machine Learning, or web development.  
-Let's connect and build something amazing together! 🚀
+I'm **Aashish Marisetty**.
+
+I build AI-powered applications and full-stack solutions that solve real-world problems.
+
+Lately, I've been focused on developing projects using **Generative AI**, **Agentic AI**, **Python**, **React**, **TensorFlow**, and modern web technologies.
+
+I'm currently exploring multi-agent systems, Retrieval-Augmented Generation (RAG), cloud-native AI, Docker, and AWS.
+
+**"I don't just build AI models—I build intelligent systems that create impact."**
+
+### Fun Facts
+- ☕ Coffee + coding + music = my happy place
+- 🤖 Always experimenting with the latest AI technologies
+- 🏋️ Consistent gym enthusiast
+- 💡 Love turning ideas into real-world projects
+
+If you'd like to collaborate on AI, machine learning, full-stack development, or open-source projects, feel free to reach out.
